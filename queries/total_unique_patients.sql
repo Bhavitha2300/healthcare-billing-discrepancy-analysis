@@ -1,0 +1,1 @@
+SELECT COUNT(DISTINCT patient_id) AS total_patients FROM vntest.healthcare_claims;
